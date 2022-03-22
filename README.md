@@ -2,3 +2,4 @@
 This is my homework 2 assignment. I had some trouble aligning flex items in the main section
 and using background images to 'highlight' text.
 
+https://jakeykim98.github.io/Homework2/
